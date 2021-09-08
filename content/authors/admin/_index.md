@@ -7,8 +7,7 @@ interests:
   - Resilience
   - Earthquake Engineering
   - Healthcare
-  - Risk
-  - Reliability
+  - Risk & Reliability
   - Uncertainty
 social:
   - icon: envelope
