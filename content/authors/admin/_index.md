@@ -1,14 +1,14 @@
 ---
 title: Karl Eid
 role: Ph.D. Candidate in the Civil and Environmental Engineering Department
+avatar_filename: karl_eid.jpg
 bio: My research interests include risk and resilience of communities,
   earthquake engineering and healthcare.
 interests:
   - Resilience
+  - Risk & Reliability
   - Earthquake Engineering
   - Healthcare
-  - Risk & Reliability
-  - Uncertainty
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,7 +38,7 @@ education:
       year: 2017
     - course: BE in Civil and Environmental Engineering
       institution: American University of Beirut
-      year: 2015
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
