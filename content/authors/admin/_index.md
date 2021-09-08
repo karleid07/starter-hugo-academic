@@ -26,19 +26,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Illinois at Urbana-Champaign
+    url: https://cee.illinois.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Sustainable and Resilient Infrastructure Systems
+      institution: University of Illinois at Urbana-Champaign
+      year: ""
+    - course: MS in Earthquake Engineering
+      institution: University of California, at Berkeley
+      year: 2017
+    - course: BE in Civil and Environmental Engineering
+      institution: American University of Beirut
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
