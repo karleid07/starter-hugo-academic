@@ -28,7 +28,7 @@ experience:
     company_logo: UIUC-Logo
     location: Urbana, IL
     date_start: '2021-08-15'
-    #date_end: ''
+    date_end: ''
     description: |2-
         •	Assisted professors in preparing and administering weekly in-person seminars to train ~200 teaching assistants (TAs) in the College of Engineering
         •	Coordinated and graded bi-weekly homework and service-learning term projects 
