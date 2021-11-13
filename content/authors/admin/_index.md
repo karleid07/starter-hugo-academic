@@ -39,4 +39,4 @@ highlight_name: true
 ---
 I am a Ph.D. candidate in the Civil and Environmental Engineering Department at the University of Illinois at Urbana-Champaign, advised by Professor Paolo Gardoni. I mainly work on modeling the resilience of communities against disasters, with a particular focus on earthquakes and healthcare.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Karl Eid - CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
