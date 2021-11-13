@@ -25,7 +25,7 @@ experience:
   - title: Graduate Teaching Assistant | ENG 598: Teaching and Leadership | In-person 
     company: University of Illinois at Urbana-Champaign
     company_url: ''
-    company_logo: UIUC-Logo.jpg
+    company_logo: UIUC-Logo
     location: Urbana, IL
     date_start: '2021-08-015'
     #date_end: ''
