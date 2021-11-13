@@ -19,12 +19,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/karl-eid-7332a9a8/
 organizations:
   - name: University of Illinois at Urbana-Champaign
     url: https://cee.illinois.edu/
