@@ -22,19 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Teaching Assistant | ENG 598: Teaching and Leadership | In-person 
+    company: University of Illinois at Urbana-Champaign
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: UIUC-Logo
+    location: Urbana, IL
+    date_start: 'Fall 2021'
+    #date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        •	Assisted professors in preparing and administering weekly in-person seminars to train ~200 teaching assistants (TAs) in the College of Engineering
+        •	Coordinated and graded bi-weekly homework and service-learning term projects 
+
         
   - title: Professor of Semiconductor Physics
     company: University X
